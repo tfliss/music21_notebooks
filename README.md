@@ -23,7 +23,10 @@ Dependencies
 ============
 
 <https://web.mit.edu/music21/> music21 musicology toolkit
+
 <http://lilypond.org/> LilyPond music engraving software
+
 <https://musescore.org> MuseScore music notation software
+
 <https://jupyter.org/> Jupyter notebooks
 
