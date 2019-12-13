@@ -22,8 +22,8 @@ docker run -p 8888:8888 -v `pwd`/work:/home/jovyan/work tfliss/music21_notebooks
 Dependencies
 ============
 
-[https://web.mit.edu/music21/][music21 musicology toolkit]
-[http://lilypond.org/][LilyPond music engraving software]
-[https://musescore.org][MuseScore music notation software]
-[https://jupyter.org/][Jupyter notebooks]
+<https://web.mit.edu/music21/> music21 musicology toolkit
+<http://lilypond.org/> LilyPond music engraving software
+<https://musescore.org> MuseScore music notation software
+<https://jupyter.org/> Jupyter notebooks
 
