@@ -10,6 +10,7 @@ Docker Build
 
 ```
 docker build --tag tfliss/music21_notebooks .
+```
 
 Docker Run
 ==========
